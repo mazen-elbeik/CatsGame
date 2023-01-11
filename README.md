@@ -13,3 +13,5 @@ of the frame aren't removed but are respawned below the screen. The game support
 get outside the frame until a certain border then stops you. Choose your player and try to break your high score
 
 a special hack for our special customers: press 'X' to destroy all enemies and 'H' to restore health.
+
+test clone
